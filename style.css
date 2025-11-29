@@ -100,6 +100,20 @@
     font-weight: bold;
     border-radius: 6px;
 }
+                     
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .header-info-block {
     display: flex;
@@ -164,7 +178,7 @@
     position: relative;
     padding: 0 34px;
 }
-.play-btn {
+.play-btn{
     display: flex;
     background-color: darkblue;
     width: 40px;
@@ -186,3 +200,11 @@
     text-align: center;
 }
 
+.about-subtitle {
+    font-size: 13px;
+    color: #8c8c8c;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    text-align: center;
+    display: block;
+}
